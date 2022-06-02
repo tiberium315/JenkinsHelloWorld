@@ -1,0 +1,3 @@
+asdasdavsbdasdajksdbka
+
+localhost:8080/job/HelloWorld/build?token=asdasdavsbdasdajksdbka
